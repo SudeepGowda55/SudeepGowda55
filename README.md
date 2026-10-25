@@ -15,9 +15,9 @@
 
 ### About
 
-I build backend systems for EV charging at **Elocity**: payment integrations (Maya, Stripe, in-person POS), an **OCPI 2.2.1** roaming service, a **Kafka Connect → OpenSearch** logging pipeline and **OCI APM** tracing.
+At **Elocity** I build the backend for an EV-charging network: payments across Maya, Stripe and in-person POS terminals, an **OCPI 2.2.1** roaming service that lets drivers charge on partner networks, and the observability behind it all (Kafka Connect → OpenSearch logging, OCI APM tracing).
 
-Outside work I build DeFi infrastructure on **Uniswap v4** and **1inch**, and have won prizes at 8 hackathons, including **$5,000** at ETHGlobal Unite DeFi.
+Outside work I ship hackathon projects across DeFi, cross-chain swaps, rollups and on-chain AI agents. Eight of them have won prizes, including **$5,000** at ETHGlobal Unite DeFi.
 
 ### Tech stack
 
